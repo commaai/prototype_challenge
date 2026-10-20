@@ -1,0 +1,20 @@
+pocket,tool,diameter,flutes,flute_length,corner_radius,qty_on_hand,condition
+T1,2 in face mill (APKT inserts),2 in,3,,,1,good
+T2,carbide flat endmill (aluminum),1/2 in,3,1.25 in,sharp,2,good
+T3,carbide flat endmill (aluminum),3/8 in,3,1.00 in,sharp,1,good
+T4,carbide flat endmill (aluminum),1/4 in,3,0.75 in,sharp,3,good
+T5,carbide bull nose endmill,1/4 in,3,0.75 in,0.5 mm,1,good
+T6,carbide flat endmill,6 mm,3,18 mm,sharp,1,good
+T7,carbide flat endmill,3/16 in,3,0.50 in,sharp,1,good
+T8,carbide flat endmill,1/8 in,2,0.375 in,sharp,1,chipped corner
+T9,carbide ball endmill,1/4 in,2,0.75 in,full,1,good
+T10,90 deg chamfer mill,1/4 in,2,,,1,good
+T11,90 deg spot drill,1/4 in,2,,,1,good
+T12,carbide twist drill,1.60 mm,,,,2,good
+T13,spiral flute tap,M2x0.4,,,,1,good
+T14,carbide twist drill,2.00 mm,,,,2,good
+T15,chucking reamer,2.00 mm,,,,1,good
+T16,carbide twist drill,2.50 mm,,,,2,good
+T17,spiral flute tap,M3x0.5,,,,1,good
+T18,carbide twist drill,3.20 mm,,,,2,good
+T20,Renishaw spindle probe,,,,,1,calibrated

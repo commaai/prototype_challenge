@@ -1,0 +1,11 @@
+material,form,nominal_size,qty_on_hand,length_on_hand,condition,bin_label
+6061-T6511 aluminum,flat bar,0.75 x 1.00 in,1,24.0 in,good,flat bar
+6061-T651 aluminum,flat bar,1.00 x 3.00 in,1,18.5 in,good,fixture stock
+6061-T651 aluminum,plate,0.50 x 4.00 in,1,12.0 in,good,misc plate
+6061-T6 aluminum,square bar,1.00 x 1.00 in,1,7.2 in,saw cut,aluminum square
+6061-T6 aluminum,round bar,1.00 in dia,0,0 in,out (on order; arrives Friday),round insert stock
+6061-T6 aluminum,round bar,0.625 in dia,0,0 in,out,small round
+C360 brass,round bar,1.00 in dia,0,0 in,out,brass round
+303 stainless,round bar,1.00 in dia,1,10.0 in,good,stainless round
+Delrin/acetal,round bar,1.00 in dia,1,11.5 in,good,black plastic round
+6061 aluminum,soft jaw blanks for 6 in vise,6 x 1.5 x 0.75 in,3 pairs,,new,soft jaws
